@@ -1,5 +1,5 @@
 
-# [DuckDuckGo-Dark-Violet-Theme](https://userstyles.world/style/2297/duckduckgo-dark-violet-theme)
+# [DuckDuckGo Dark - Violet Theme](https://userstyles.world/style/2297/duckduckgo-dark-violet-theme)
 ![Title-Image](https://userstyles.org/style_screenshots/184142_after.png?r=1638924023)
 > Makes the site a bit more modern and round. It gives you while surfing on the internet a new experience! 
 
